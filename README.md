@@ -53,6 +53,7 @@ A curated list of awesome Ionic libraries, resources and solutions.
 	- [Convergence](https://github.com/GrumpyWizards/Convergence) - A fun game
 	- [Protokit](https://github.com/Alexintosh/Protokit) - A prototype kit
 	- [Ionic chat application](https://github.com/melvin0008/ionic-socketio-chat-client/) - Chat application built using ionic and socket.io
+	- [Tinder-like fully-functional app in ionic](https://github.com/akveo/chernika-mobile)
 	
 - Books
 	- [Ionic in Action](http://www.manning.com/wilken/?a_aid=ionicinaction)
